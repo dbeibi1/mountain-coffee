@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 350" width="280" height="350">
+  <defs><linearGradient id="paper"><stop stop-color="#b9a585"/><stop offset=".15" stop-color="#cab796"/><stop offset=".7" stop-color="#cab796"/><stop offset="1" stop-color="#b9a585"/></linearGradient><filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7"/></filter></defs>
+  <ellipse cx="143" cy="325" rx="77" ry="8" fill="#243529" opacity=".16" filter="url(#shadow)"/>
+  <path d="m65 28 151 0 11 38-5 218 13 33-184 0 13-32L56 66Z" fill="url(#paper)"/>
+  <path d="m65 28 6 18 137 0 8-18" fill="none" stroke="#b9a585" stroke-width="2"/>
+  <path d="M64 52h154M65 57h151" stroke="#b9a585" opacity=".6"/>
+  <path d="m56 66 14 9-6 210-13 32 22-6 6-247M227 66l-14 9 9 209 13 33-22-8-6-246" fill="#b9a585" opacity=".45"/>
+  <rect x="76" y="85" width="129" height="190" fill="#716245"/>
+  <g stroke="#f3ecda" stroke-width="1.5" fill="none" stroke-linejoin="round"><path d="m115 120 14-19 12 16 13-24 14 27h-53Z"/><path d="M119 127h45"/></g>
+  <g text-anchor="middle" fill="#f3ecda"><text x="140" y="145" font-family="Georgia,serif" font-size="10" letter-spacing="1">MOUNTAIN COFFEE</text><text x="140" y="157" font-family="Arial,sans-serif" font-size="4.8" letter-spacing="1.8">PAPUA NEW GUINEA</text><path d="M91 174h99" stroke="#f3ecda" opacity=".45"/>
+  <text x="140" y="194" font-family="Georgia,serif" font-size="18">VALLEY</text><text x="140" y="215" font-family="Georgia,serif" font-size="20">RESERVE</text><text x="140" y="241" font-family="Arial,sans-serif" font-size="6.5" letter-spacing="1.6">GREEN COFFEE</text><text x="140" y="257" font-family="Arial,sans-serif" font-size="5.5" letter-spacing="1.2">CONCEPT SAMPLE · 02</text></g>
+  <path d="M65 300q77-9 157 0" fill="none" stroke="#b9a585" stroke-width="2"/>
+  </svg>

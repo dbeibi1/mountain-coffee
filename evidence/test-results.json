@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-08T10:37:02.898Z",
+  "target": "file:///C:/Users/DELL/Desktop/MountainCoffee/index.html",
+  "transport": "Local files (offline); live HTTP hosting not verified",
+  "browsers": [
+    {
+      "channel": "chrome",
+      "version": "154.0.8037.98",
+      "results": [
+        {
+          "name": "mobile",
+          "width": 390,
+          "height": 844,
+          "passed": true,
+          "checks": [
+            "No horizontal overflow or broken images; one main heading",
+            "Four products and valid section-link targets",
+            "Reduced-motion preference respected",
+            "Skip link is first keyboard focus",
+            "Mobile menu opens, closes, supports Escape/focus, and reveals unobscured section",
+            "FAQ toggles with keyboard",
+            "Product links prefill type and preserve an edited message",
+            "Required fields, whitespace-only values, and invalid email are rejected",
+            "Valid form announces demo completion, resets entries, sends no request, and uses no browser storage",
+            "New input clears old confirmation",
+            "No browser console or JavaScript errors"
+          ]
+        },
+        {
+          "name": "tablet",
+          "width": 768,
+          "height": 1024,
+          "passed": true,
+          "checks": [
+            "No horizontal overflow or broken images; one main heading",
+            "Four products and valid section-link targets",
+            "Reduced-motion preference respected",
+            "Skip link is first keyboard focus",
+            "Mobile menu opens, closes, supports Escape/focus, and reveals unobscured section",
+            "FAQ toggles with keyboard",
+            "Product links prefill type and preserve an edited message",
+            "Required fields, whitespace-only values, and invalid email are rejected",
+            "Valid form announces demo completion, resets entries, sends no request, and uses no browser storage",
+            "New input clears old confirmation",
+            "No browser console or JavaScript errors"
+          ]
+        },
+        {
+          "name": "desktop",
+          "width": 1440,
+          "height": 900,
+          "passed": true,
+          "checks": [
+            "No horizontal overflow or broken images; one main heading",
+            "Four products and valid section-link targets",
+            "Reduced-motion preference respected",
+            "Skip link is first keyboard focus",
+            "Desktop navigation visible",
+            "FAQ toggles with keyboard",
+            "Product links prefill type and preserve an edited message",
+            "Required fields, whitespace-only values, and invalid email are rejected",
+            "Valid form announces demo completion, resets entries, sends no request, and uses no browser storage",
+            "New input clears old confirmation",
+            "No browser console or JavaScript errors"
+          ]
+        },
+        {
+          "name": "narrow",
+          "width": 320,
+          "height": 800,
+          "passed": true,
+          "checks": [
+            "No horizontal overflow or broken images; one main heading",
+            "Four products and valid section-link targets",
+            "Reduced-motion preference respected",
+            "Skip link is first keyboard focus",
+            "Mobile menu opens, closes, supports Escape/focus, and reveals unobscured section",
+            "FAQ toggles with keyboard",
+            "Product links prefill type and preserve an edited message",
+            "Required fields, whitespace-only values, and invalid email are rejected",
+            "Valid form announces demo completion, resets entries, sends no request, and uses no browser storage",
+            "New input clears old confirmation",
+            "No browser console or JavaScript errors"
+          ]
+        }
+      ],
+      "noJavaScript": "Passed: navigation readable, FAQ works, form remains safely disabled"
+    }
+  ],
+  "unavailableBrowsers": [
+    {
+      "channel": "msedge",
+      "error": "browserType.launch: Target page, context or browser has been closed"
+    }
+  ],
+  "failures": []
+}

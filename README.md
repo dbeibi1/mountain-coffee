@@ -8,11 +8,11 @@ A responsive landing page for an **imaginary Papua New Guinea coffee exporter**,
 
 ## Publication status
 
-The public repository has been created. Website publication and final live-host checks are in progress.
+The public repository and GitHub Pages website were published and verified on 8 October 2026. Pages deploys from the `main` branch at `/(root)`.
 
 - Repository: [dbeibi1/mountain-coffee](https://github.com/dbeibi1/mountain-coffee).
-- Expected website after successful publication: [dbeibi1.github.io/mountain-coffee/](https://dbeibi1.github.io/mountain-coffee/) — **not a confirmed live link**.
-- Follow [PUBLISHING.md](PUBLISHING.md), then replace this status with the verified repository and published website links.
+- Live website: [dbeibi1.github.io/mountain-coffee/](https://dbeibi1.github.io/mountain-coffee/).
+- Live screenshots: [mobile](evidence/live-mobile.jpg), [tablet](evidence/live-tablet.jpg), [desktop](evidence/live-desktop.jpg).
 
 
 ## Purpose and audience
@@ -75,7 +75,7 @@ See [the testing record](evidence/TESTING.md) and [machine-readable results](evi
 | Tablet | 768 × 1024 | [Tablet](evidence/chrome-tablet.png) |
 | Desktop | 1440 × 900 | [Desktop](evidence/chrome-desktop.png) |
 
-Microsoft Edge is installed, but its automated process exited before loading the page in the execution sandbox. No Edge pass or screenshot is claimed. Safari, Firefox, physical devices, and live-host testing have not been verified.
+Microsoft Edge is installed, but its automated process exited before loading the page in the execution sandbox. No Edge pass or screenshot is claimed. Safari, Firefox, and physical devices have not been verified. The published website was checked separately in the in-app browser; see the testing record for its scope.
 
 Full-page Chrome captures are also included: [mobile](evidence/chrome-mobile-full.png), [tablet](evidence/chrome-tablet-full.png), and [desktop](evidence/chrome-desktop-full.png). These show the complete page at each viewport width, so their image heights exceed the viewport heights. An additional 320-pixel-wide layout is tested for overflow.
 
@@ -109,7 +109,7 @@ Logo, favicon, stylised Highlands illustration, and four packaging illustrations
 - Mobile, tablet, and desktop screenshots: see the evidence folder.
 - Browser and responsive testing: see the testing record and JSON results.
 - Public GitHub repository URL: included above.
-- Verified live website URL and live-host checks: pending publication.
+- Verified live website URL and live-host checks: completed; see the testing record.
 - Separate written report: not required by the supplied A3 brief.
 
 Keep the original assignment PDF out of GitHub. It is excluded by `.gitignore` and by the prepared upload package. Do not publish credentials, local caches, or personal form data.

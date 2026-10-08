@@ -1,6 +1,6 @@
 # Publish Mountain Coffee on GitHub Pages
 
-The approved destination is the public repository `dbeibi1/mountain-coffee`, with a Pages site at the expected address `https://dbeibi1.github.io/mountain-coffee/`. These addresses must be verified after publication; they are not evidence of an already-live site.
+The project was published on 8 October 2026 to [dbeibi1/mountain-coffee](https://github.com/dbeibi1/mountain-coffee), with the verified Pages website at [dbeibi1.github.io/mountain-coffee/](https://dbeibi1.github.io/mountain-coffee/). The instructions below document the publishing workflow. See `evidence/TESTING.md` for completed live checks.
 
 ## Account access
 

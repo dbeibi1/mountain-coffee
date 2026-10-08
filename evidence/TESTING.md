@@ -38,7 +38,15 @@ See [test-results.json](test-results.json) for per-viewport assertions and the b
 - Microsoft Edge is installed but exits during automated launch in this execution sandbox, before the page loads. Two launch approaches failed; no Edge pass is claimed.
 - Safari, Firefox, physical phones/tablets, and screen-reader software were not tested. Viewports were simulated on a desktop browser.
 - A separate in-app browser successfully loaded the local HTTP preview on port 4174. The automated screenshots above were captured from local files.
-- Public GitHub Pages publication and live-host verification are pending. Do not interpret local screenshots as proof of a published website.
+- Local Chrome screenshots document the original automated checks; the separate live captures below document publication.
+
+## Published website verification
+
+On 8 October 2026, GitHub's [first Pages deployment](https://github.com/dbeibi1/mountain-coffee/actions/runs/37766744249) completed successfully after all root files, assets, scripts, and evidence were committed. The verified URL is [https://dbeibi1.github.io/mountain-coffee/](https://dbeibi1.github.io/mountain-coffee/). Pages uses `main` and `/(root)`.
+
+The in-app browser verified the live website at 390 × 844, 768 × 1024, 1440 × 900, and 320 × 800. No horizontal overflow occurred. All eleven displayed images loaded after visiting the sections, all section-link targets existed, and no browser console errors were captured. The mobile menu expanded, closed with Escape, and closed after following the FAQ link. The first FAQ opened with Enter. Empty required fields failed validation; a valid request displayed “Demo request completed. No request has been sent.” and cleared all entries. These live checks supplement the detailed local automated checks; live network/storage instrumentation was not repeated.
+
+Live browser captures: [mobile](live-mobile.jpg), [tablet](live-tablet.jpg), [desktop](live-desktop.jpg). These were captured at the same required viewport sizes and visually reviewed.
 
 ## Reproduction
 

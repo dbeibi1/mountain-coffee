@@ -1,0 +1,14 @@
+# Assignment source material stays on the student's computer.
+*.pdf
+submission-*.md
+MountainCoffee-submission.zip
+# Local tools, package caches, and temporary QA artifacts.
+node_modules/
+.qa/
+tmp/
+output/
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
